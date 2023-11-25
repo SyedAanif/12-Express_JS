@@ -1,0 +1,16 @@
+{
+  "name": "02-http-requests",
+  "version": "1.0.0",
+  "description": "HTTP Server Requests for GET, PUT, POST, PATCH, DELETE",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aanif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
